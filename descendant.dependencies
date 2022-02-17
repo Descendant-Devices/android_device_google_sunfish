@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "LineageOS/android_kernel_google_msm-4.14",
+    "target_path": "kernel/google/msm-4.14",
+    "branch": "lineage-19.0",
+    "remote": "github"
+  },
+  {
+    "repository" : "android/vendor-blobs/vendor_google_sunfish",
+    "target_path": "vendor/google/sunfish",
+    "branch": "twelve",
+    "remote": "pixel-gitlab"
+  }
+]
